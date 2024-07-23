@@ -1,1 +1,1 @@
-Preprocessing based on the X repository The Algorithm, in simclusters_v2 and normalizer.
+Code used in an data science intership in the metallurgy industry
